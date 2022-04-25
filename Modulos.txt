@@ -1,0 +1,7 @@
+Por favor en caso de ser necesarios instalar los modulos correspondientes dentro de la carpeta
+del proyecto y crear una base de datos llamada 'usuarios' .
+
+Modulos requeridos para que funcione:
+1)_npm install --save sequelize
+2)_npm install --save mariadb
+
